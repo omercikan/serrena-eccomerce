@@ -11,3 +11,5 @@
 
 	 **** 'FOOTER' alanı.
 ![](https://l24.im/YnoENZd)
+
+NOT: DAHA DİNAMİK HALE YÜKSELTİLİP YAYINLANACAKTIR..
