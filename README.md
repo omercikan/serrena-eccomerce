@@ -14,6 +14,8 @@
 
 NOT: DAHA DİNAMİK HALE YÜKSELTİLİP YAYINLANACAKTIR..
 
-//----------------------------------//
+//------------------------//
+
 Canlı demo link: https://serrena-eccomerce.netlify.app/
-//----------------------------------//
+
+//------------------------//
