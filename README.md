@@ -6,7 +6,7 @@
 	 **** Çok satanlar 'CARD' alanı.
 ![](https://l24.im/7q9rTBs)
 
-	 **** Ürünler 'SLİDER' gösterim alanı.
+	 **** Ürünler 'SLIDER' gösterim alanı.
 ![](https://l24.im/KU5Ee)
 
 	 **** 'FOOTER' alanı.
